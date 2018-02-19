@@ -38,7 +38,7 @@
             <l7:Resource>
                 <l7:Service id="1c3c09857da0dd4838a87ec93239c6df" version="7">
                     <l7:ServiceDetail folderId="1c3c09857da0dd4838a87ec93239c4e8" id="1c3c09857da0dd4838a87ec93239c6df" version="7">
-                        <l7:Name>JWT Example</l7:Name>
+                        <l7:Name>JWT Example2222</l7:Name>
                         <l7:Enabled>true</l7:Enabled>
                         <l7:ServiceMappings>
                             <l7:HttpMapping>
